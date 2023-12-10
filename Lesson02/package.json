@@ -1,8 +1,7 @@
 {
-  "name": "lesson01",
+  "name": "lesson02",
   "version": "1.0.0",
   "scripts": {
-    "my-test": "node --require ./setup.js ./app/sum.test.js",
     "test": "jest"
   },
   "devDependencies": {
