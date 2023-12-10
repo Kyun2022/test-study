@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "my-test": "node --require ./setup.js ./app/sum.test.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
